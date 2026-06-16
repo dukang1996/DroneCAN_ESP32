@@ -8,7 +8,7 @@ DroneCAN_ESP32 为 ESP32 微控制器提供完整的 DroneCAN 协议支持，支
 
 ## 功能特性
 
-- **完整的 DroneCAN 协议栈** — 基于 Libcanard，支持 UAVCAN V1 协议
+- **完整的 DroneCAN 协议栈** — 基于 Libcanard，支持 UAVCAN V0 协议
 - **灵活的传输类型** — 支持广播、请求、响应三种传输模式
 - **可配置内存池** — 支持自定义 CAN 收发缓冲区大小
 - **回调机制** — 支持自定义接收回调和传输过滤回调
